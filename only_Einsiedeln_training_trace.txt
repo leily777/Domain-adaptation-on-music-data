@@ -1,0 +1,204 @@
+Just y_crossent training:
+
+2018-06-18 04:01:49.824427 Start training...
+2018-06-18 04:01:49.824427 Open Tensorboard at --logdir ./tboard/run3/
+2018-06-18 04:01:49.824427 Epoch number: 1
+2018-06-18 04:03:18.465993 Start validation
+2018-06-18 04:03:30.059746 Validation Accuracy = 0.5202
+2018-06-18 04:03:30.059746 Saving checkpoint of model...
+2018-06-18 04:03:31.997252 Model checkpoint saved at ./modelchkpt1/model_epoch1.ckpt
+2018-06-18 04:03:31.997252 Epoch number: 2
+2018-06-18 04:04:59.325368 Start validation
+2018-06-18 04:05:10.950372 Validation Accuracy = 0.7591
+2018-06-18 04:05:10.950372 Saving checkpoint of model...
+2018-06-18 04:05:12.763038 Model checkpoint saved at ./modelchkpt1/model_epoch2.ckpt
+2018-06-18 04:05:12.763038 Epoch number: 3
+2018-06-18 04:06:39.856757 Start validation
+2018-06-18 04:06:51.466130 Validation Accuracy = 0.7611
+2018-06-18 04:06:51.466130 Saving checkpoint of model...
+2018-06-18 04:06:53.481897 Model checkpoint saved at ./modelchkpt1/model_epoch3.ckpt
+2018-06-18 04:06:53.481897 Epoch number: 4
+2018-06-18 04:08:20.017628 Start validation
+2018-06-18 04:08:31.548876 Validation Accuracy = 0.8125
+2018-06-18 04:08:31.548876 Saving checkpoint of model...
+2018-06-18 04:08:33.830133 Model checkpoint saved at ./modelchkpt1/model_epoch4.ckpt
+2018-06-18 04:08:33.830133 Epoch number: 5
+2018-06-18 04:10:00.658253 Start validation
+2018-06-18 04:10:12.189503 Validation Accuracy = 0.8151
+2018-06-18 04:10:12.189503 Saving checkpoint of model...
+2018-06-18 04:10:14.205158 Model checkpoint saved at ./modelchkpt1/model_epoch5.ckpt
+2018-06-18 04:10:14.205158 Epoch number: 6
+2018-06-18 04:11:40.955127 Start validation
+2018-06-18 04:11:52.533260 Validation Accuracy = 0.8568
+2018-06-18 04:11:52.533260 Saving checkpoint of model...
+2018-06-18 04:11:54.517790 Model checkpoint saved at ./modelchkpt1/model_epoch6.ckpt
+2018-06-18 04:11:54.517790 Epoch number: 7
+2018-06-18 04:13:21.720893 Start validation
+2018-06-18 04:13:33.283371 Validation Accuracy = 0.8444
+2018-06-18 04:13:33.283371 Saving checkpoint of model...
+2018-06-18 04:13:36.955306 Model checkpoint saved at ./modelchkpt1/model_epoch7.ckpt
+2018-06-18 04:13:36.955306 Epoch number: 8
+2018-06-18 04:15:04.205278 Start validation
+2018-06-18 04:15:15.783402 Validation Accuracy = 0.8548
+2018-06-18 04:15:15.783402 Saving checkpoint of model...
+2018-06-18 04:15:18.033401 Model checkpoint saved at ./modelchkpt1/model_epoch8.ckpt
+2018-06-18 04:15:18.033401 Epoch number: 9
+2018-06-18 04:16:44.986496 Start validation
+2018-06-18 04:16:56.533369 Validation Accuracy = 0.8600
+2018-06-18 04:16:56.533369 Saving checkpoint of model...
+2018-06-18 04:16:58.439701 Model checkpoint saved at ./modelchkpt1/model_epoch9.ckpt
+2018-06-18 04:16:58.439701 Epoch number: 10
+2018-06-18 04:18:25.486568 Start validation
+2018-06-18 04:18:37.080302 Validation Accuracy = 0.8281
+2018-06-18 04:18:37.080302 Saving checkpoint of model...
+2018-06-18 04:18:38.970952 Model checkpoint saved at ./modelchkpt1/model_epoch10.ckpt
+2018-06-18 04:18:38.986560 Epoch number: 11
+2018-06-18 04:20:06.252172 Start validation
+2018-06-18 04:20:17.799045 Validation Accuracy = 0.8763
+2018-06-18 04:20:17.799045 Saving checkpoint of model...
+2018-06-18 04:20:19.830343 Model checkpoint saved at ./modelchkpt1/model_epoch11.ckpt
+2018-06-18 04:20:19.830343 Epoch number: 12
+2018-06-18 04:21:46.877170 Start validation
+2018-06-18 04:21:58.408423 Validation Accuracy = 0.8750
+2018-06-18 04:21:58.408423 Saving checkpoint of model...
+2018-06-18 04:22:00.517805 Model checkpoint saved at ./modelchkpt1/model_epoch12.ckpt
+2018-06-18 04:22:00.517805 Epoch number: 13
+2018-06-18 04:23:27.564676 Start validation
+2018-06-18 04:23:39.189674 Validation Accuracy = 0.8704
+2018-06-18 04:23:39.189674 Saving checkpoint of model...
+2018-06-18 04:23:40.955338 Model checkpoint saved at ./modelchkpt1/model_epoch13.ckpt
+2018-06-18 04:23:40.955338 Epoch number: 14
+2018-06-18 04:25:07.877177 Start validation
+2018-06-18 04:25:19.424077 Validation Accuracy = 0.8770
+2018-06-18 04:25:19.439679 Saving checkpoint of model...
+2018-06-18 04:25:21.408448 Model checkpoint saved at ./modelchkpt1/model_epoch14.ckpt
+2018-06-18 04:25:21.408448 Epoch number: 15
+2018-06-18 04:26:48.502174 Start validation
+2018-06-18 04:27:00.095921 Validation Accuracy = 0.8822
+2018-06-18 04:27:00.095921 Saving checkpoint of model...
+2018-06-18 04:27:02.064784 Model checkpoint saved at ./modelchkpt1/model_epoch15.ckpt
+2018-06-18 04:27:02.064784 Epoch number: 16
+2018-06-18 04:28:28.924171 Start validation
+2018-06-18 04:28:40.502273 Validation Accuracy = 0.8835
+2018-06-18 04:28:40.502273 Saving checkpoint of model...
+2018-06-18 04:28:42.346028 Model checkpoint saved at ./modelchkpt1/model_epoch16.ckpt
+2018-06-18 04:28:42.346028 Epoch number: 17
+2018-06-18 04:30:09.580397 Start validation
+2018-06-18 04:30:21.127273 Validation Accuracy = 0.8932
+2018-06-18 04:30:21.127273 Saving checkpoint of model...
+2018-06-18 04:30:24.768209 Model checkpoint saved at ./modelchkpt1/model_epoch17.ckpt
+2018-06-18 04:30:24.768209 Epoch number: 18
+2018-06-18 04:31:51.861951 Start validation
+2018-06-18 04:32:03.471331 Validation Accuracy = 0.8932
+2018-06-18 04:32:03.471331 Saving checkpoint of model...
+2018-06-18 04:32:05.580683 Model checkpoint saved at ./modelchkpt1/model_epoch18.ckpt
+2018-06-18 04:32:05.580683 Epoch number: 19
+2018-06-18 04:33:32.471326 Start validation
+2018-06-18 04:33:44.080707 Validation Accuracy = 0.8874
+2018-06-18 04:33:44.096310 Saving checkpoint of model...
+2018-06-18 04:33:45.971337 Model checkpoint saved at ./modelchkpt1/model_epoch19.ckpt
+2018-06-18 04:33:45.971337 Epoch number: 20
+2018-06-18 04:35:12.924452 Start validation
+2018-06-18 04:35:24.533833 Validation Accuracy = 0.9010
+2018-06-18 04:35:24.533833 Saving checkpoint of model...
+2018-06-18 04:35:26.611962 Model checkpoint saved at ./modelchkpt1/model_epoch20.ckpt
+2018-06-18 04:35:26.611962 Epoch number: 21
+2018-06-18 04:36:53.471326 Start validation
+2018-06-18 04:37:05.065076 Validation Accuracy = 0.8893
+2018-06-18 04:37:05.065076 Saving checkpoint of model...
+2018-06-18 04:37:06.924489 Model checkpoint saved at ./modelchkpt1/model_epoch21.ckpt
+2018-06-18 04:37:06.924489 Epoch number: 22
+2018-06-18 04:38:33.830701 Start validation
+2018-06-18 04:38:45.455681 Validation Accuracy = 0.8984
+2018-06-18 04:38:45.455681 Saving checkpoint of model...
+2018-06-18 04:38:47.424439 Model checkpoint saved at ./modelchkpt1/model_epoch22.ckpt
+2018-06-18 04:38:47.424439 Epoch number: 23
+2018-06-18 04:40:14.440077 Start validation
+2018-06-18 04:40:26.033827 Validation Accuracy = 0.9010
+2018-06-18 04:40:26.033827 Saving checkpoint of model...
+2018-06-18 04:40:27.846349 Model checkpoint saved at ./modelchkpt1/model_epoch23.ckpt
+2018-06-18 04:40:27.846349 Epoch number: 24
+2018-06-18 04:41:55.033832 Start validation
+2018-06-18 04:42:06.643209 Validation Accuracy = 0.9023
+2018-06-18 04:42:06.643209 Saving checkpoint of model...
+2018-06-18 04:42:08.596431 Model checkpoint saved at ./modelchkpt1/model_epoch24.ckpt
+2018-06-18 04:42:08.596431 Epoch number: 25
+2018-06-18 04:43:35.955805 Start validation
+2018-06-18 04:43:47.565182 Validation Accuracy = 0.9082
+2018-06-18 04:43:47.565182 Saving checkpoint of model...
+2018-06-18 04:43:49.424575 Model checkpoint saved at ./modelchkpt1/model_epoch25.ckpt
+2018-06-18 04:43:49.424575 Epoch number: 26
+2018-06-18 04:45:16.518308 Start validation
+2018-06-18 04:45:28.080835 Validation Accuracy = 0.9082
+2018-06-18 04:45:28.080835 Saving checkpoint of model...
+2018-06-18 04:45:30.033947 Model checkpoint saved at ./modelchkpt1/model_epoch26.ckpt
+2018-06-18 04:45:30.033947 Epoch number: 27
+2018-06-18 04:46:57.393306 Start validation
+2018-06-18 04:47:08.955805 Validation Accuracy = 0.9167
+2018-06-18 04:47:08.955805 Saving checkpoint of model...
+2018-06-18 04:47:10.721455 Model checkpoint saved at ./modelchkpt1/model_epoch27.ckpt
+2018-06-18 04:47:10.721455 Epoch number: 28
+2018-06-18 04:48:38.143328 Start validation
+2018-06-18 04:48:49.705807 Validation Accuracy = 0.9089
+2018-06-18 04:48:49.705807 Saving checkpoint of model...
+2018-06-18 04:48:51.330913 Model checkpoint saved at ./modelchkpt1/model_epoch28.ckpt
+2018-06-18 04:48:51.330913 Epoch number: 29
+2018-06-18 04:50:18.440201 Start validation
+2018-06-18 04:50:30.018335 Validation Accuracy = 0.9049
+2018-06-18 04:50:30.018335 Saving checkpoint of model...
+2018-06-18 04:50:31.955816 Model checkpoint saved at ./modelchkpt1/model_epoch29.ckpt
+2018-06-18 04:50:31.955816 Epoch number: 30
+2018-06-18 04:51:59.283931 Start validation
+2018-06-18 04:52:10.924557 Validation Accuracy = 0.8952
+2018-06-18 04:52:10.924557 Saving checkpoint of model...
+2018-06-18 04:52:13.033973 Model checkpoint saved at ./modelchkpt1/model_epoch30.ckpt
+2018-06-18 04:52:13.033973 Epoch number: 31
+2018-06-18 04:53:40.393326 Start validation
+2018-06-18 04:53:51.971427 Validation Accuracy = 0.9049
+2018-06-18 04:53:51.971427 Saving checkpoint of model...
+2018-06-18 04:53:53.862109 Model checkpoint saved at ./modelchkpt1/model_epoch31.ckpt
+2018-06-18 04:53:53.862109 Epoch number: 32
+2018-06-18 04:55:21.112054 Start validation
+2018-06-18 04:55:32.674555 Validation Accuracy = 0.9036
+2018-06-18 04:55:32.674555 Saving checkpoint of model...
+2018-06-18 04:55:34.455836 Model checkpoint saved at ./modelchkpt1/model_epoch32.ckpt
+2018-06-18 04:55:34.455836 Epoch number: 33
+2018-06-18 04:57:01.705826 Start validation
+2018-06-18 04:57:13.268306 Validation Accuracy = 0.9089
+2018-06-18 04:57:13.268306 Saving checkpoint of model...
+2018-06-18 04:57:15.096440 Model checkpoint saved at ./modelchkpt1/model_epoch33.ckpt
+2018-06-18 04:57:15.096440 Epoch number: 34
+2018-06-18 04:58:42.080807 Start validation
+2018-06-18 04:58:53.658958 Validation Accuracy = 0.9089
+2018-06-18 04:58:53.674558 Saving checkpoint of model...
+2018-06-18 04:58:55.377782 Model checkpoint saved at ./modelchkpt1/model_epoch34.ckpt
+2018-06-18 04:58:55.377782 Epoch number: 35
+2018-06-18 05:00:22.534028 Start validation
+2018-06-18 05:00:34.112181 Validation Accuracy = 0.9095
+2018-06-18 05:00:34.127780 Saving checkpoint of model...
+2018-06-18 05:00:36.096535 Model checkpoint saved at ./modelchkpt1/model_epoch35.ckpt
+2018-06-18 05:00:36.096535 Epoch number: 36
+2018-06-18 05:02:03.659028 Start validation
+2018-06-18 05:02:15.252805 Validation Accuracy = 0.9102
+2018-06-18 05:02:15.252805 Saving checkpoint of model...
+2018-06-18 05:02:17.112273 Model checkpoint saved at ./modelchkpt1/model_epoch36.ckpt
+2018-06-18 05:02:17.112273 Epoch number: 37
+2018-06-18 05:03:44.081000 Start validation
+2018-06-18 05:03:55.690381 Validation Accuracy = 0.9095
+2018-06-18 05:03:55.690381 Saving checkpoint of model...
+2018-06-18 05:03:57.612292 Model checkpoint saved at ./modelchkpt1/model_epoch37.ckpt
+2018-06-18 05:03:57.612292 Epoch number: 38
+2018-06-18 05:05:24.846626 Start validation
+2018-06-18 05:05:36.440378 Validation Accuracy = 0.9134
+2018-06-18 05:05:36.440378 Saving checkpoint of model...
+2018-06-18 05:05:38.268515 Model checkpoint saved at ./modelchkpt1/model_epoch38.ckpt
+2018-06-18 05:05:38.268515 Epoch number: 39
+2018-06-18 05:07:05.815375 Start validation
+2018-06-18 05:07:17.377873 Validation Accuracy = 0.9010
+2018-06-18 05:07:17.377873 Saving checkpoint of model...
+2018-06-18 05:07:19.096642 Model checkpoint saved at ./modelchkpt1/model_epoch39.ckpt
+2018-06-18 05:07:19.096642 Epoch number: 40
+2018-06-18 05:08:46.471646 Start validation
+2018-06-18 05:08:58.065403 Validation Accuracy = 0.9128
+2018-06-18 05:08:58.081004 Saving checkpoint of model...
+2018-06-18 05:08:59.877891 Model checkpoint saved at ./modelchkpt1/model_epoch40.ckpt
