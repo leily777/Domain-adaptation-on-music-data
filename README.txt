@@ -1,3 +1,5 @@
+My Domain-adapatation project using Tensorflow on Music data (data not provided here)
+
 txtgenerate.py : To generate batch of training image-patchs selected randomly from the training image. There is no class-imbalance. Don't run this file since it's main method with create a train/test dataset for you.
 alexnet1,finetun1: To train on Einstein dataset, minimizing just the label classifier loss. 
 alexnet1,finetune3 : To train using domain adaptation, taking into account both label and domain loss.
